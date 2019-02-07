@@ -1,0 +1,3 @@
+python, 6
+programming, 11
+deep Learning, 13
